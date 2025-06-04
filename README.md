@@ -4,10 +4,6 @@ I am [**Wong Lik Hang Kenny** (Chinese name: **王力恒**)](https://kenn3o3.git
 
 My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodied AI**, **Robotics**, and **Continual Learning**. I’m currently diving into continual learning to build generalist Embodied AI agents for real-world challenges.
 
-<p>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F&countColor=%23f47373" /></a>
-</p>
-
 ---
 
 ### Connect with Me
@@ -33,3 +29,6 @@ My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodie
 - **2024-11-01**: Admitted to **CUHK**’s MSc in Computer Science (Fall 2025).
 
 ---
+<p>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F&label=VISITORS%20TODAY&countColor=%2337d67a&labelStyle=upper" /></a>
+</p>
