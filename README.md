@@ -5,8 +5,7 @@ I am [**Wong Lik Hang Kenny** (Chinese name: **王力恒**)](https://kenn3o3.git
 My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodied AI**, **Robotics**, and **Continual Learning**. I’m currently diving into continual learning to build generalist Embodied AI agents for real-world challenges.
 
 <p>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fkenn3o3.github.io%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkenn3o3.github.io%2F&label=Homepage%20Visitors%20today&countColor=%23f47373&style=flat" /></a>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F&label=GIthub%20Visitors%20today&countColor=%23f47373&style=flat" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F&countColor=%23f47373" /></a>
 </p>
 
 ---
@@ -34,5 +33,3 @@ My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodie
 - **2024-11-01**: Admitted to **CUHK**’s MSc in Computer Science (Fall 2025).
 
 ---
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Farxiv.org%2Fabs%2F2505.01458"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Farxiv.org%2Fabs%2F2505.01458&label=Survey%20Read%20By&countColor=%23f47373" /></a>
