@@ -29,6 +29,5 @@ My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodie
 - **2024-11-01**: Admitted to **CUHK**’s MSc in Computer Science (Fall 2025).
 
 ---
-<p>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FKenn3o3%2F&label=VISITORS%20TODAY&countColor=%2337d67a&labelStyle=upper" /></a>
-</p>
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKenn3o3&label=VISITORS&countColor=%23d9e3f0&labelStyle=upper" /></a>
