@@ -31,3 +31,5 @@ My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodie
 ---
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKenn3o3&label=VISITORS&countColor=%23d9e3f0&labelStyle=upper" /></a>
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Farxiv.org%2Fabs%2F2505.01458&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Farxiv.org%2Fabs%2F2505.01458)
