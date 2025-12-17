@@ -20,7 +20,7 @@ My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodie
   [Paper](https://arxiv.org/abs/2505.01458)  
 
 - **Embodied AI for Vision Language Navigation (VLN) with Quadruped Robots**  
-  [Paper](https://www.researchgate.net/publication/390799350_Advancing_Vision-Language_Navigation_for_Quadruped_Robots_A_Novel_Model_and_Dataset_for_Real-World_Applications) / [Code](https://github.com/Kenn3o3/FYP-Navigator) / [Poster](https://kenn3o3.github.io/files/fyp-navigator/poster.pdf)
+  [Paper](https://www.researchgate.net/publication/392510173_Advancing_Vision-Language_Navigation_for_Quadruped_Robots_A_Novel_Model_and_Dataset_for_Real-World_Applications) / [Code](https://github.com/Kenn3o3/FYP-Navigator) / [Poster](https://kenn3o3.github.io/files/fyp-navigator/poster.pdf)
 
 ---
 
