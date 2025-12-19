@@ -2,7 +2,7 @@
 
 I am [**Wong Lik Hang Kenny** (Chinese name: **王力恒**)](https://kenn3o3.github.io/), a recent **BSc in Computer Science** graduate from **City University of Hong Kong (CityUHK)** (2025). I’m thrilled to join the **MSc in Computer Science** program at **The Chinese University of Hong Kong (CUHK)** in Fall 2025.
 
-My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodied AI**, **Robotics**, and **Continual Learning**. I’m currently diving into continual learning to build generalist Embodied AI agents for real-world challenges.
+My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodied AI**, **Robotics**, and **Continual Learning**. I’m currently diving into multi-robot collaboration, dexterous manipulation, continual learning to build generalist Embodied AI agents for real-world challenges.
 
 <!-- ---
 
