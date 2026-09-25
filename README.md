@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./files/header.svg" alt="Kenny Wong Lik Hang — Embodied AI and Robotics" width="100%">
+  <a href="https://kenn3o3.github.io/">
+    <img src="./files/header.svg" alt="Kenny Wong Lik Hang — Embodied AI and Robotics" width="100%">
+  </a>
 </p>
 
 <p align="center">
