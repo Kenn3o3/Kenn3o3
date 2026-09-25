@@ -1,33 +1,61 @@
-### About Me
+<p align="center">
+  <img src="./files/header.svg" alt="Kenny Wong Lik Hang — Embodied AI and Robotics" width="100%">
+</p>
 
-I am [**Wong Lik Hang Kenny** (Chinese name: **王力恒**)](https://kenn3o3.github.io/), a recent **BSc in Computer Science** graduate from **City University of Hong Kong (CityUHK)** (2025). I’m an upcoming **MPhil in Computer Science** program at **The Chinese University of Hong Kong (CUHK)** in Fall 2026.
+<p align="center">
+  <a href="https://kenn3o3.github.io/"><strong>Website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=x0JaFVIAAAAJ">Google Scholar</a>
+  &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0004-3599-1649">ORCID</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kennywlh">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://kenn3o3.github.io/files/resume.pdf">CV</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:klhwong3@outlook.com">Email</a>
+</p>
 
-My research passions lie in **Deep Learning**, **3D Computer Vision**, **Embodied AI**, **Robotics**, and **Continual Learning**. I’m currently diving into multi-robot collaboration, dexterous manipulation, continual learning to build generalist Embodied AI agents for real-world challenges.
+I am an MPhil student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), advised by [Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/). My research sits at the intersection of **embodied AI**, **visuotactile perception**, and **robot learning**—with a focus on helping robots reason through contact and manipulate the physical world reliably.
 
-<!-- ---
+<p align="center">
+  <code>Visuotactile Learning</code>&nbsp;&nbsp;
+  <code>Contact-rich Manipulation</code>&nbsp;&nbsp;
+  <code>Diffusion / Flow Policies</code>&nbsp;&nbsp;
+  <code>3D Vision</code>
+</p>
 
-### Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/kennywlh"><img src="./files/icon/linkedin.png" height="30px"></a>
-  <a href="mailto:klhwong3@outlook.com"><img src="./files/icon/email.png" height="32px"></a>
-  <a href="https://scholar.google.com/citations?user=oJb-iNQAAAAJ"><img src="./files/icon/google_scholar.png" height="30px"></a>
-</p> -->
+## Selected research
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://vista-paper.github.io/"><img src="./files/projects/vista.png" alt="VISTA method overview" width="100%"></a>
+      <h3>VISTA</h3>
+      <p><strong>CoRL 2026</strong> · Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation</p>
+      <p>Fuses visual and tactile observations on the sphere to learn spatially robust manipulation policies.</p>
+      <p><a href="https://vista-paper.github.io/">Project</a> · <a href="https://github.com/Kenn3o3/Vista">Code</a> · <a href="https://kenn3o3.github.io/projects/vista">Overview</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://arxiv.org/abs/2505.01458"><img src="./files/projects/eai-survey.png" alt="Embodied AI simulator survey overview" width="100%"></a>
+      <h3>Physics Simulators for Embodied AI</h3>
+      <p><strong>ACM Computing Surveys</strong></p>
+      <p>A structured survey of simulation platforms for robotic navigation and manipulation.</p>
+      <p><a href="https://arxiv.org/abs/2505.01458">Paper</a> · <a href="https://kenn3o3.github.io/projects/eai-survey">Overview</a></p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Recent Papers & Projects
-- **A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI**  
-  [Paper](https://arxiv.org/abs/2505.01458)  
+## A little more about me
 
-- **Embodied AI for Vision Language Navigation (VLN) with Quadruped Robots**  
-  [Paper](https://www.researchgate.net/publication/392510173_Advancing_Vision-Language_Navigation_for_Quadruped_Robots_A_Novel_Model_and_Dataset_for_Real-World_Applications) / [Code](https://github.com/Kenn3o3/FYP-Navigator) / [Poster](https://kenn3o3.github.io/files/fyp-navigator/poster.pdf)
+- 🎓 **CUHK** — MPhil in Computer Science & Engineering; MSc in Computer Science, Dean's List
+- 🏅 **CityUHK** — BSc in Computer Science, *cum laude* and top 15% of the graduating class
+- 🧭 Previously explored legged-robot navigation at **Oak Ridge National Laboratory / UTK**
+- 🏀 Outside the lab: basketball, golf, swimming, hiking, music, gaming, and exploring new places
 
----
+<br>
 
-## 📰 News
-- **2025-06-04**: Graduated with a **BSc in Computer Science** from **CityUHK**!
-- **2024-11-01**: Admitted to **CUHK**’s MSc in Computer Science (Fall 2025).
-
----
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKenn3o3"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKenn3o3&label=VISITORS&countColor=%23d9e3f0&labelStyle=upper" /></a>
+<p align="center">
+  <em>Always happy to talk about robots that learn from sight, touch, and interaction.</em><br><br>
+  <a href="mailto:klhwong3@outlook.com"><strong>Get in touch →</strong></a>
+</p>
