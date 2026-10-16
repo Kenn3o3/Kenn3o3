@@ -50,7 +50,7 @@ I am an Master student in Computer Science and Engineering at [The Chinese Unive
 
 ## A little more about me
 
-- 🎓 **CUHK** — MPhil in Computer Science & Engineering; MSc in Computer Science, Dean's List
+- 🎓 **CUHK** — MSc in Computer Science, Dean's List
 - 🏅 **CityUHK** — BSc in Computer Science, *cum laude* and top 15% of the graduating class
 - 🧭 Previously explored legged-robot navigation at **Oak Ridge National Laboratory / UTK**
 - 🏀 Outside the lab: basketball, golf, swimming, hiking, music, gaming, and exploring new places
