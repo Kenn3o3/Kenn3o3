@@ -18,7 +18,7 @@
   <a href="mailto:klhwong3@outlook.com">Email</a>
 </p>
 
-I am an MPhil student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), advised by [Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/). My research sits at the intersection of **embodied AI**, **visuotactile perception**, and **robot learning**—with a focus on helping robots reason through contact and manipulate the physical world reliably.
+I am an Master student in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), working in  [Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/)'s lab. My research sits at the intersection of **embodied AI**, **visuotactile perception**, and **robot learning**—with a focus on helping robots reason through contact and manipulate the physical world reliably.
 
 <p align="center">
   <code>Visuotactile Learning</code>&nbsp;&nbsp;
