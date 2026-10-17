@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://kenn3o3.github.io/">
-    <img src="./files/header.svg" alt="Kenny Wong Lik Hang — Embodied AI and Robotics" width="100%">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://kenn3o3.github.io/"><strong>Website</strong></a>
   &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=x0JaFVIAAAAJ">Google Scholar</a>
